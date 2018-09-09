@@ -18,7 +18,8 @@ var menu = {
 console.log(menu.name + " - $" + menu.price)
 console.log(menu.ingredients.toString())
 
-4. var savingsAccount = {
+4. 
+  var savingsAccount = {
     balance: 1000,
     interestRatePercent: 1,
     deposit: function addMoney(amount) {
@@ -41,7 +42,7 @@ console.log(menu.ingredients.toString())
 console.log(savingsAccount.summary());
 
 5.
-var donuts = [
+ var donuts = [
   { type: "Jelly", cost: 1.22 },
   { type: "Chocolate", cost: 2.45 },
   { type: "Cider", cost: 1.59 },

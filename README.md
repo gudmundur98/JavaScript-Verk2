@@ -4,8 +4,10 @@
 var info = {"notandi": [{"fornafn": "Guðmundur"}, {"eftirnafn": "Brynleifsson"}, {"heimasimi": "5371450"}, {"farsimi": "7736335"}]};
 
 console.log(info.notandi[3].farsimi)
+
 2.
 console.log(family.parents.fathers[1].name)
+
 3.
 var menu = {
     name: "The Lumberjack",
